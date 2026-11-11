@@ -1,0 +1,8 @@
+# Unreal assets are binary: never merge them as text.
+*.uasset binary
+*.umap binary
+*.fbx binary
+*.wav binary
+*.png binary
+*.jpg binary
+*.pdf binary
