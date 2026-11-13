@@ -22,7 +22,7 @@ once it is built.
 ## 2. Get the project and build it
 
 1. Clone this repository to a short path, for example `C:\Games\TheBinding`.
-2. If your Unreal version is not 5.7: right-click `TheBinding.uproject` → **Switch Unreal Engine version** → pick yours.
+2. If your Unreal version is not 5.8: right-click `TheBinding.uproject` → **Switch Unreal Engine version** → pick yours.
 3. Double-click `TheBinding.uproject`. Unreal says the **TheBinding** module is missing and asks to rebuild it →
    **Yes**. The first build takes a few minutes.
    If it fails, open `Saved/Logs/TheBinding.log`, copy the errors and paste them to Claude or Codex.
